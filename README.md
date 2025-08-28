@@ -16,8 +16,6 @@ Using Python, pandas, and statsmodels. Evaluating and exploring data analysis, v
   - `wait_length`, `service_length` – call metrics in seconds
   - `meets_standard` – whether service meets target standards
 
----
-
 ## Key Steps
 1. **Data Cleaning & Inspection**
    - Checked for missing values
@@ -36,8 +34,6 @@ Using Python, pandas, and statsmodels. Evaluating and exploring data analysis, v
    - Attempted to predict `service_length` using `wait_length` with linear regression (R² ≈ 0)
    - Demonstrates workflow for predictive modeling and feature selection
 
----
-
 ## Libraries Used
 - `pandas` for data manipulation
 - `numpy` for numerical operations
@@ -45,7 +41,6 @@ Using Python, pandas, and statsmodels. Evaluating and exploring data analysis, v
 - `statsmodels` for time series forecasting
 - `scikit-learn` for regression
 
----
 
 ## Usage
 1. Clone the repository:  
