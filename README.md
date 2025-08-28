@@ -40,9 +40,3 @@ Using Python, pandas, and statsmodels. Evaluating and exploring data analysis, v
 - `matplotlib` for visualization
 - `statsmodels` for time series forecasting
 - `scikit-learn` for regression
-
-
-## Usage
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/Call-Centre-Analytics.git
